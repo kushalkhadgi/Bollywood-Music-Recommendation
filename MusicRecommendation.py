@@ -38,4 +38,4 @@ def recomendation(song):
         
 
     
-recomendation("O Janiya")
+recomendation("Gali Gali")
